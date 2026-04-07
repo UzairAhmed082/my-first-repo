@@ -5,7 +5,7 @@ My GitHub profile README, a little about me, my interests, and my coding journey
 
 ## About Me
 - 🪪 Syed Uzair Ahmed — goes by Uzair Ahmed
-- 🎓 CS Student at University Of Karachi
+- 🎓 Computer Science Student at University Of Karachi
 - 🔐 Passionate about Cybersecurity
 - 🇵🇰 Based in Karachi, Pakistan
 - 🎯 Goal is to grow Pakistan's IT and Cybersecurity sector
